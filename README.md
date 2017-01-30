@@ -14,5 +14,5 @@ $ tjy foo.json
 ```
 or
 ```
-$ tjy bar.json
+$ tjy bar.yaml
 ```
