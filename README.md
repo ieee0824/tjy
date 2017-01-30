@@ -7,7 +7,7 @@ toggle json and yaml
 ```
 $ tjy foo.json
 ```
-of
+or
 ```
 $ tjy bar.json
 ```
